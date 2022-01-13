@@ -1,0 +1,11 @@
+<bug report>
+  <bug 1>
+    <summary> login </summary>
+    <environment> all browsers </environment>
+    <severity> major </severity>
+    <steps to reproduce> 1 2 3 4 5 </steps to reproduce>
+    <actual result> error messages in the login form are displayed in English </actual result>
+    <expected result> error messages in the login form are displayed in the chosen language </expected result>
+    <attachment> link to the website </attachment>
+  </bug 1>
+</bug report>
